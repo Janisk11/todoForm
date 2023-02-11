@@ -2,7 +2,7 @@ import { Button, TextField, Box, Typography } from '@mui/material'
 import React from 'react'
 import useForm from './read'
 
-const BookApp = () => {
+const TodoForm = () => {
     var [todo, settodo] = useForm({title:'',quantity:'',description:''})
 
   return (
@@ -21,4 +21,4 @@ const BookApp = () => {
   )
 }
 
-export default BookApp
+export default TodoForm
