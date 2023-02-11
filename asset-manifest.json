@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todoForm/static/css/main.964fdded.css",
+    "main.js": "/todoForm/static/js/main.c27e3957.js",
+    "static/js/787.f23618e4.chunk.js": "/todoForm/static/js/787.f23618e4.chunk.js",
+    "index.html": "/todoForm/index.html",
+    "main.964fdded.css.map": "/todoForm/static/css/main.964fdded.css.map",
+    "main.c27e3957.js.map": "/todoForm/static/js/main.c27e3957.js.map",
+    "787.f23618e4.chunk.js.map": "/todoForm/static/js/787.f23618e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.c27e3957.js"
+  ]
+}
